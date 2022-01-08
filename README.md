@@ -44,7 +44,7 @@ Quick Intro of Project
 
 ![](https://raw.githubusercontent.com/vibrantachintya/nordstrom/main/images/nordstrom_screenshot_11.png)
 ![](https://raw.githubusercontent.com/vibrantachintya/nordstrom/main/images/nordstrom_screenshot_12.png)
-(Screenshots of Product Display webpage created by Manish Reddy)
+(Screenshots of Product Display webpage created by Suraj Kumar)
 
 6. Shopping Bag, Checkout by Chandan Kumar :
 
